@@ -1,0 +1,50 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 40
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 4
+    corridorProb: 0.05
+    hasGeyser: false
+    caveUnitFile: vs_10_test_tile.txt
+    lightingFile: vs_10_light.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 3
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Pelplant
+    rawWeight: 100
+    type: 0
+  - rawTekiName: Catfish
+    rawWeight: 40
+    type: 1
+  - rawTekiName: Frog
+    rawWeight: 1
+    type: 8
+  - rawTekiName: YellowKochappy
+    rawWeight: 42
+    type: 0
+  - rawTekiName: Pelplant
+    rawWeight: 11
+    type: 1
+  - rawTekiName: Sokkuri
+    rawWeight: 8
+    type: 6
+  - rawTekiName: Egg
+    rawWeight: 8
+    type: 6
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1

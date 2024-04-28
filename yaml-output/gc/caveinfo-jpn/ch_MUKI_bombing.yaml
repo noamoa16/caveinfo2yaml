@@ -1,0 +1,96 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 23
+    maxItem: 5
+    maxGate: 0
+    capProb: 0.8
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 2_units_5x5a_big_tekiF_kusachi.txt
+    lightingFile: sniper_light_lv0.ini
+    skyboxFile: hiroba
+    holeClogged: false
+    echoStrength: 4
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: FminiHoudai_be_dama_red_l
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Fkabuto_diamond_blue_l
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Rkabuto_diamond_red
+    rawWeight: 10
+    type: 0
+  - rawTekiName: $1BombSarai_be_dama_blue_l
+    rawWeight: 10
+    type: 5
+  - rawTekiName: BlueChappy_be_dama_yellow_l
+    rawWeight: 10
+    type: 5
+  - rawTekiName: BlueKochappy_be_dama_yellow
+    rawWeight: 20
+    type: 0
+  - rawTekiName: BlueKochappy_be_dama_red
+    rawWeight: 20
+    type: 0
+  - rawTekiName: BlueKochappy_be_dama_blue
+    rawWeight: 20
+    type: 0
+  - rawTekiName: YellowKochappy_gold_medal
+    rawWeight: 10
+    type: 0
+  - rawTekiName: YellowKochappy_silver_medal
+    rawWeight: 10
+    type: 0
+  - rawTekiName: KareOoinu_s
+    rawWeight: 30
+    type: 0
+  - rawTekiName: KareOoinu_s
+    rawWeight: 30
+    type: 0
+  - rawTekiName: KareOoinu_l
+    rawWeight: 10
+    type: 0
+  - rawTekiName: KareOoinu_l
+    rawWeight: 10
+    type: 0
+  - rawTekiName: KareOoinu_l
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Nekojarashi
+    rawWeight: 6
+    type: 6
+  - rawTekiName: KareOoinu_l
+    rawWeight: 8
+    type: 6
+  - rawTekiName: Watage
+    rawWeight: 4
+    type: 6
+  - rawTekiName: Fkabuto_diamond_blue_l
+    rawWeight: 10
+    type: 8
+  itemInfo:
+  - itemName: key
+    rawWeight: 10
+  - itemName: diamond_red_l
+    rawWeight: 10
+  - itemName: diamond_green_l
+    rawWeight: 10
+  - itemName: haniwa
+    rawWeight: 10
+  - itemName: saru_head
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1

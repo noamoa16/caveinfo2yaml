@@ -1,0 +1,126 @@
+numSublevels: 2
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 12
+    maxItem: 3
+    maxGate: 0
+    capProb: 1.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_units_ike2_ike3_snow.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Hanachirashi_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Mar_diamond_red
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 5
+  - rawTekiName: UjiA_flower_blue
+    rawWeight: 20
+    type: 0
+  - rawTekiName: UjiA_flower_blue
+    rawWeight: 10
+    type: 0
+  - rawTekiName: UjiB_flower_blue
+    rawWeight: 20
+    type: 0
+  - rawTekiName: UjiB_flower_blue
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Tanpopo
+    rawWeight: 2
+    type: 6
+  - rawTekiName: Zenmai
+    rawWeight: 4
+    type: 6
+  - rawTekiName: KareOoinu_s
+    rawWeight: 6
+    type: 6
+  - rawTekiName: KareOoinu_l
+    rawWeight: 4
+    type: 6
+  itemInfo:
+  - itemName: donguri_l
+    rawWeight: 10
+  - itemName: donguri
+    rawWeight: 10
+  - itemName: matu_bokkuri
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 12
+    maxItem: 3
+    maxGate: 0
+    capProb: 1.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 2_units_ari1_nor2_metal.txt
+    lightingFile: metal_light_cha.ini
+    skyboxFile: ice
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Hanachirashi_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Mar_diamond_blue_l
+    rawWeight: 10
+    type: 1
+  - rawTekiName: UjiA_bird_hane
+    rawWeight: 20
+    type: 0
+  - rawTekiName: UjiA_bird_hane
+    rawWeight: 10
+    type: 1
+  - rawTekiName: UjiB_bird_hane
+    rawWeight: 20
+    type: 0
+  - rawTekiName: UjiB_bird_hane
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 5
+  - rawTekiName: DaiodoGreen
+    rawWeight: 99
+    type: 6
+  itemInfo:
+  - itemName: sinkukan
+    rawWeight: 10
+  - itemName: sinkukan_b
+    rawWeight: 10
+  - itemName: sinkukan_c
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

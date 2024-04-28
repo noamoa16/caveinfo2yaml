@@ -1,0 +1,94 @@
+numSublevels: 2
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 5
+    maxItem: 3
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_units_nor_tekiF_metal.txt
+    lightingFile: metal_light_cha.ini
+    skyboxFile: test
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Fkabuto_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: YellowKochappy_be_dama_blue
+    rawWeight: 30
+    type: 1
+  - rawTekiName: Tank_be_dama_red_l
+    rawWeight: 10
+    type: 1
+  - rawTekiName: DaiodoRed
+    rawWeight: 5
+    type: 6
+  - rawTekiName: DaiodoGreen
+    rawWeight: 5
+    type: 6
+  itemInfo:
+  - itemName: gear_silver
+    rawWeight: 10
+  - itemName: nut
+    rawWeight: 10
+  - itemName: bolt
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 5
+    maxItem: 3
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 2_units_mid1_nor22_metal.txt
+    lightingFile: metal_light_cha.ini
+    skyboxFile: build
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Rkabuto_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: BlueKochappy_be_dama_yellow
+    rawWeight: 30
+    type: 1
+  - rawTekiName: Tank_be_dama_red_l
+    rawWeight: 10
+    type: 1
+  - rawTekiName: DaiodoRed
+    rawWeight: 5
+    type: 6
+  - rawTekiName: DaiodoGreen
+    rawWeight: 5
+    type: 6
+  itemInfo:
+  - itemName: gear
+    rawWeight: 10
+  - itemName: nut_l
+    rawWeight: 10
+  - itemName: bolt_l
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 20
+    type: 1

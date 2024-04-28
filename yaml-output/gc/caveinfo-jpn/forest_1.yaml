@@ -1,0 +1,194 @@
+numSublevels: 5
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 10
+    maxItem: 1
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_units_cent3_tsuchi.txt
+    lightingFile: normal_light_lv0.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: UjiB
+    rawWeight: 40
+    type: 1
+  - rawTekiName: UjiA
+    rawWeight: 20
+    type: 0
+  - rawTekiName: UjiA
+    rawWeight: 20
+    type: 0
+  - rawTekiName: UjiA
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Clover
+    rawWeight: 4
+    type: 6
+  - rawTekiName: Tukushi
+    rawWeight: 2
+    type: 6
+  - rawTekiName: KareOoinu_s
+    rawWeight: 2
+    type: 6
+  itemInfo:
+  - itemName: juji_key_fc
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 2
+    maxItem: 0
+    maxGate: 0
+    capProb: 1.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_units_cent2_tsuchi.txt
+    lightingFile: muraon_light_lv2.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 2
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: BlackPom
+    rawWeight: 20
+    type: 8
+  - rawTekiName: HikariKinoko
+    rawWeight: 6
+    type: 6
+  - rawTekiName: KareOoinu_s
+    rawWeight: 2
+    type: 6
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 20
+    type: 1
+- floorInfo:
+    sublevel: 2
+    maxMainTeki: 14
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_ABE_norhiba_blkhiba_tsuchi.txt
+    lightingFile: normal_light_lv2.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Hiba
+    rawWeight: 70
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 70
+    type: 8
+  - rawTekiName: HikariKinoko
+    rawWeight: 8
+    type: 6
+  itemInfo:
+  - itemName: donutswhite
+    rawWeight: 10
+  - itemName: dia_c_green
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 3
+    maxMainTeki: 6
+    maxItem: 1
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_ABE_mid1_nor3_tsuchi.txt
+    lightingFile: normal_light_lv3.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Chappy_donutsichigo_s
+    rawWeight: 10
+    type: 1
+  - rawTekiName: BlackPom
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Hiba
+    rawWeight: 40
+    type: 1
+  - rawTekiName: HikariKinoko
+    rawWeight: 6
+    type: 6
+  itemInfo:
+  - itemName: dia_b_blue
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: TamagoMushi
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 20
+    type: 1
+- floorInfo:
+    sublevel: 4
+    maxMainTeki: 1
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_boss_tsuchi.txt
+    lightingFile: qchap_light.ini
+    skyboxFile: none
+    holeClogged: true
+    echoStrength: 0
+    musicType: 1
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Queen_radar_a
+    rawWeight: 10
+    type: 1
+  - rawTekiName: HikariKinoko
+    rawWeight: 8
+    type: 6
+  itemInfo: []
+  gateInfo: []
+  capInfo: []

@@ -1,0 +1,60 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 35
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 4
+    corridorProb: 0.1
+    hasGeyser: false
+    caveUnitFile: vs_6_nobo_metal.txt
+    lightingFile: vs_6_light.ini
+    skyboxFile: build
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Pelplant
+    rawWeight: 60
+    type: 0
+  - rawTekiName: Pelplant
+    rawWeight: 3
+    type: 1
+  - rawTekiName: Egg
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Kochappy
+    rawWeight: 40
+    type: 1
+  - rawTekiName: UjiA
+    rawWeight: 2
+    type: 0
+  - rawTekiName: Egg
+    rawWeight: 20
+    type: 1
+  - rawTekiName: FminiHoudai
+    rawWeight: 20
+    type: 8
+  - rawTekiName: Kochappy
+    rawWeight: 60
+    type: 5
+  - rawTekiName: Qurione
+    rawWeight: 40
+    type: 5
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Qurione
+    rawWeight: 21
+    type: 1
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 21
+    type: 1

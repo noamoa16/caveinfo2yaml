@@ -1,0 +1,250 @@
+numSublevels: 5
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 10
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_units_blk1_nor4_tsuchi.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: YellowChappy_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: YellowKochappy_be_dama_yellow
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Chappy_diamond_red
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Kochappy_be_dama_red
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 30
+    type: 5
+  - rawTekiName: Clover
+    rawWeight: 6
+    type: 6
+  - rawTekiName: Tanpopo
+    rawWeight: 6
+    type: 6
+  - rawTekiName: Tukushi
+    rawWeight: 4
+    type: 6
+  itemInfo: []
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 12
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_units_kingA_norhiba_tsuchi.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: KumaChappy_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: KumaKochappy_be_dama_red
+    rawWeight: 20
+    type: 0
+  - rawTekiName: BlueChappy_diamond_blue_l
+    rawWeight: 10
+    type: 1
+  - rawTekiName: BlueKochappy_be_dama_blue
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 60
+    type: 8
+  - rawTekiName: KareOoinu_l
+    rawWeight: 8
+    type: 6
+  - rawTekiName: KareOoinu_s
+    rawWeight: 8
+    type: 6
+  itemInfo: []
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 2
+    maxMainTeki: 8
+    maxItem: 0
+    maxGate: 0
+    capProb: 1.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_units_ike2_hit1_tsuchi.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: FireChappy_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 40
+    type: 5
+  - rawTekiName: Clover
+    rawWeight: 4
+    type: 6
+  - rawTekiName: Ooinu_s
+    rawWeight: 4
+    type: 6
+  - rawTekiName: KareOoinu_s
+    rawWeight: 4
+    type: 6
+  - rawTekiName: Ooinu_l
+    rawWeight: 2
+    type: 6
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: RandPom
+    rawWeight: 30
+    type: 1
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 20
+    type: 1
+- floorInfo:
+    sublevel: 3
+    maxMainTeki: 2
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_units_queen_c_tsuchi.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 1
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Queen_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 5
+  - rawTekiName: Hiba
+    rawWeight: 6
+    type: 6
+  itemInfo: []
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 4
+    maxMainTeki: 20
+    maxItem: 1
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_king_tsuchi.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 1
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: KingChappy_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: KingChappy_gold_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: KingChappy_silver_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Bomb
+    rawWeight: 30
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 30
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 30
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 30
+    type: 0
+  - rawTekiName: Wakame_l
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Wakame_l
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Wakame_s
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Wakame_s
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Zenmai
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 13
+    type: 6
+  itemInfo:
+  - itemName: haniwa
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

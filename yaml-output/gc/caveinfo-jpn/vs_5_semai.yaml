@@ -1,0 +1,44 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 45
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: vs_5_conc.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Pelplant
+    rawWeight: 100
+    type: 0
+  - rawTekiName: Pelplant
+    rawWeight: 2
+    type: 6
+  - rawTekiName: YellowKochappy
+    rawWeight: 30
+    type: 1
+  - rawTekiName: UjiA
+    rawWeight: 1
+    type: 0
+  - rawTekiName: Egg
+    rawWeight: 50
+    type: 5
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1

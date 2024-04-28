@@ -1,0 +1,50 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 50
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.7
+    maxRoom: 4
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: vs_4_metal.txt
+    lightingFile: metal_light_cha.ini
+    skyboxFile: build
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: BombSarai_be_dama_yellow_l
+    rawWeight: 40
+    type: 1
+  - rawTekiName: Pelplant
+    rawWeight: 80
+    type: 0
+  - rawTekiName: Tank
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Wtank
+    rawWeight: 20
+    type: 1
+  - rawTekiName: ElecBug
+    rawWeight: 80
+    type: 0
+  - rawTekiName: ElecHiba
+    rawWeight: 40
+    type: 5
+  - rawTekiName: Bomb
+    rawWeight: 1
+    type: 0
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1

@@ -1,0 +1,62 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 22
+    maxItem: 4
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_MAT_sak1_sak2_snow.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: $YellowChappy_ichigo_l
+    rawWeight: 10
+    type: 5
+  - rawTekiName: $Kochappy_be_dama_red
+    rawWeight: 10
+    type: 8
+  - rawTekiName: $FireChappy_kuri
+    rawWeight: 10
+    type: 8
+  - rawTekiName: $4ElecOtakara_momiji_normal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: $4ElecOtakara_momiji_normal
+    rawWeight: 10
+    type: 5
+  - rawTekiName: $BombOtakara
+    rawWeight: 30
+    type: 1
+  - rawTekiName: $4BombOtakara
+    rawWeight: 30
+    type: 1
+  - rawTekiName: $Bomb
+    rawWeight: 30
+    type: 1
+  - rawTekiName: Rock
+    rawWeight: 40
+    type: 0
+  - rawTekiName: Rock
+    rawWeight: 40
+    type: 0
+  itemInfo:
+  - itemName: key
+    rawWeight: 10
+  - itemName: be_dama_red_l
+    rawWeight: 10
+  - itemName: be_dama_blue_l
+    rawWeight: 10
+  - itemName: haniwa
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

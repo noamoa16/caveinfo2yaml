@@ -1,0 +1,70 @@
+numSublevels: 2
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 4
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_units_north_tutorial_snow.txt
+    lightingFile: tutorial_1_light.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: YellowKochappy
+    rawWeight: 40
+    type: 0
+  itemInfo:
+  - itemName: tape_yellow
+    rawWeight: 10
+  - itemName: dia_a_red
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 9
+    maxItem: 1
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_purple_snow.txt
+    lightingFile: tutorial_1_light.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: BlackPom
+    rawWeight: 20
+    type: 1
+  - rawTekiName: YellowKochappy
+    rawWeight: 70
+    type: 0
+  - rawTekiName: KareOoinu_s
+    rawWeight: 6
+    type: 6
+  - rawTekiName: KareOoinu_l
+    rawWeight: 4
+    type: 6
+  - rawTekiName: Clover
+    rawWeight: 2
+    type: 6
+  itemInfo:
+  - itemName: map01
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

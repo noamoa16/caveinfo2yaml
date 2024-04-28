@@ -1,0 +1,49 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 4
+    maxItem: 12
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_MIYA_manh2_conc.txt
+    lightingFile: key_light_lv1.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: OoPanModoki_key
+    rawWeight: 10
+    type: 0
+  - rawTekiName: PanModoki_dia_b_green
+    rawWeight: 10
+    type: 0
+  - rawTekiName: PanModoki_apple_blue
+    rawWeight: 10
+    type: 0
+  - rawTekiName: PanModoki_medama_yaki
+    rawWeight: 10
+    type: 0
+  itemInfo:
+  - itemName: cookie
+    rawWeight: 20
+  - itemName: cookie_m_l
+    rawWeight: 20
+  - itemName: cookie_u
+    rawWeight: 20
+  - itemName: cookie_u_l
+    rawWeight: 20
+  - itemName: cookie_s
+    rawWeight: 20
+  - itemName: cookie_s_l
+    rawWeight: 20
+  gateInfo: []
+  capInfo: []

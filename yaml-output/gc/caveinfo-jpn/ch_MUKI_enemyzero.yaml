@@ -1,0 +1,83 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 21
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_unit_16x17r_conc.txt
+    lightingFile: yakushima_3_16x17r_light.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Sokkuri_key
+    rawWeight: 1
+    type: 6
+  - rawTekiName: $2RandPom
+    rawWeight: 3
+    type: 6
+  - rawTekiName: $2RandPom
+    rawWeight: 30
+    type: 1
+  - rawTekiName: Ooinu_s
+    rawWeight: 1
+    type: 6
+  - rawTekiName: Ooinu_l
+    rawWeight: 1
+    type: 6
+  - rawTekiName: Tanpopo
+    rawWeight: 1
+    type: 6
+  - rawTekiName: Wakame_s
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Clover
+    rawWeight: 30
+    type: 8
+  - rawTekiName: Ooinu_s
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Ooinu_l
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Tanpopo
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Wakame_l
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Sokkuri_flower_blue
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Sokkuri_momiji_normal
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Sokkuri_be_dama_red
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Sokkuri_be_dama_blue
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Sokkuri_be_dama_yellow
+    rawWeight: 20
+    type: 0
+  - rawTekiName: ShijimiChou
+    rawWeight: 1
+    type: 6
+  itemInfo:
+  - itemName: be_dama_blue_l
+    rawWeight: 10
+  - itemName: be_dama_yellow_l
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

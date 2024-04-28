@@ -1,0 +1,110 @@
+numSublevels: 2
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 7
+    maxItem: 4
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_NARI_hit6x6_toy.txt
+    lightingFile: toy_light_cha.ini
+    skyboxFile: flooring
+    holeClogged: false
+    echoStrength: 5
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Chappy_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Kochappy_gold_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Kochappy_silver_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Kochappy_toy_gentle
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Kochappy_dia_c_blue
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Kochappy_dia_c_green
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Kochappy_dia_b_red
+    rawWeight: 10
+    type: 0
+  itemInfo:
+  - itemName: be_dama_red_l
+    rawWeight: 10
+  - itemName: be_dama_yellow_l
+    rawWeight: 10
+  - itemName: be_dama_blue_l
+    rawWeight: 10
+  - itemName: castanets
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 7
+    maxItem: 6
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_large_toy.txt
+    lightingFile: toy_light_cha.ini
+    skyboxFile: flooring
+    holeClogged: false
+    echoStrength: 5
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: BlueChappy_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: BlueKochappy_gold_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: BlueKochappy_silver_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: BlueKochappy_donutschoco_s
+    rawWeight: 10
+    type: 1
+  - rawTekiName: BlueKochappy_teala_dia_b
+    rawWeight: 10
+    type: 0
+  - rawTekiName: BlueKochappy_teala_dia_d
+    rawWeight: 10
+    type: 0
+  - rawTekiName: BlueKochappy_toy_ring_b_red
+    rawWeight: 10
+    type: 0
+  itemInfo:
+  - itemName: diamond_red
+    rawWeight: 10
+  - itemName: diamond_blue_l
+    rawWeight: 10
+  - itemName: bey_goma
+    rawWeight: 10
+  - itemName: kan
+    rawWeight: 10
+  - itemName: bane_red
+    rawWeight: 10
+  - itemName: toy_ring_b_green
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

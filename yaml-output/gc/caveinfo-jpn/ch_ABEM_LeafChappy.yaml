@@ -1,0 +1,82 @@
+numSublevels: 2
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 10
+    maxItem: 3
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_MAT_manp_2_conc.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: f010
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: LeafChappy_diamond_blue_l
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Egg
+    rawWeight: 80
+    type: 0
+  itemInfo:
+  - itemName: key
+    rawWeight: 10
+  - itemName: kouseki_suisyou
+    rawWeight: 10
+  - itemName: bell_yellow
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 2
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_MAT_vs_drypool_tile.txt
+    lightingFile: normal_light_lv0.ini
+    skyboxFile: f010
+    holeClogged: false
+    echoStrength: 3
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: FireChappy_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Kochappy_be_dama_red
+    rawWeight: 10
+    type: 1
+  itemInfo:
+  - itemName: apple
+    rawWeight: 10
+  - itemName: leaf_kare
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: BlueKochappy_be_dama_blue
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: YellowKochappy_be_dama_yellow
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 10
+    type: 1

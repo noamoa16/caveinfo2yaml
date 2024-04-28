@@ -1,0 +1,52 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 16
+    maxItem: 4
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_MAT_tower2_toy.txt
+    lightingFile: hiroba_toy_light_cha.ini
+    skyboxFile: hiroba
+    holeClogged: false
+    echoStrength: 5
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: FminiHoudai_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: ElecBug_wadou_kaichin
+    rawWeight: 50
+    type: 0
+  - rawTekiName: ElecBug_wadou_kaichin
+    rawWeight: 40
+    type: 1
+  - rawTekiName: GasHiba
+    rawWeight: 60
+    type: 5
+  itemInfo:
+  - itemName: kumakibori
+    rawWeight: 10
+  - itemName: bell_blue
+    rawWeight: 10
+  - itemName: yoyo_red
+    rawWeight: 10
+  - itemName: diamond_blue
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: TamagoMushi
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 20
+    type: 1

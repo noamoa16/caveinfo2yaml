@@ -1,0 +1,68 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 12
+    maxItem: 3
+    maxGate: 5
+    capProb: 0.5
+    maxRoom: 5
+    corridorProb: 0.2
+    hasGeyser: true
+    caveUnitFile: 2_units_tak22_yuko_tile.txt
+    lightingFile: muraon_light_lv1.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 3
+    musicType: 1
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 60.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: BlackMan_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: BlackMan_doll
+    rawWeight: 10
+    type: 8
+  - rawTekiName: ElecOtakara_be_dama_yellow_l
+    rawWeight: 2
+    type: 6
+  - rawTekiName: BombOtakara
+    rawWeight: 2
+    type: 6
+  - rawTekiName: $5MaroFrog_diamond_blue_l
+    rawWeight: 10
+    type: 1
+  - rawTekiName: $5Frog_diamond_red
+    rawWeight: 10
+    type: 1
+  - rawTekiName: $5ElecBug_be_dama_red
+    rawWeight: 20
+    type: 1
+  - rawTekiName: $5ElecBug_be_dama_yellow
+    rawWeight: 20
+    type: 0
+  - rawTekiName: $5ElecBug_be_dama_blue
+    rawWeight: 20
+    type: 0
+  - rawTekiName: $5Egg
+    rawWeight: 20
+    type: 0
+  itemInfo:
+  - itemName: gold_medal
+    rawWeight: 10
+  - itemName: silver_medal
+    rawWeight: 10
+  - itemName: wadou_kaichin
+    rawWeight: 10
+  gateInfo:
+  - gateName: gate
+    gateLife: 1000.0
+    weight: 1
+  capInfo:
+  - capType: 0
+    rawTekiName: $5Egg
+    rawWeight: 30
+    type: 1

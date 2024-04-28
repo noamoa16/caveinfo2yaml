@@ -1,0 +1,268 @@
+numSublevels: 5
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 8
+    maxItem: 1
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 2
+    corridorProb: 0.2
+    hasGeyser: false
+    caveUnitFile: 1_NARI_4x4c_conc.txt
+    lightingFile: normal_light_lv0.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Tobi
+    rawWeight: 30
+    type: 1
+  - rawTekiName: Tobi
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Sokkuri
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Sokkuri
+    rawWeight: 10
+    type: 5
+  - rawTekiName: Wakame_s
+    rawWeight: 6
+    type: 6
+  - rawTekiName: Clover
+    rawWeight: 2
+    type: 6
+  itemInfo:
+  - itemName: leaf_normal
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Sokkuri
+    rawWeight: 20
+    type: 1
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 10
+    maxItem: 2
+    maxGate: 1
+    capProb: 0.5
+    maxRoom: 2
+    corridorProb: 0.2
+    hasGeyser: false
+    caveUnitFile: 1_NARI_4x4b_conc.txt
+    lightingFile: normal_light_lv1.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Frog_g_futa_titiyas
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Frog
+    rawWeight: 10
+    type: 8
+  - rawTekiName: FireOtakara
+    rawWeight: 20
+    type: 1
+  - rawTekiName: FireOtakara
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 30
+    type: 5
+  - rawTekiName: Wakame_s
+    rawWeight: 4
+    type: 6
+  - rawTekiName: Zenmai
+    rawWeight: 4
+    type: 6
+  itemInfo:
+  - itemName: ahiru_head
+    rawWeight: 10
+  - itemName: kan_b_gold
+    rawWeight: 10
+  gateInfo:
+  - gateName: gate
+    gateLife: 4000.0
+    weight: 1
+  capInfo:
+  - capType: 0
+    rawTekiName: BlackPom
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: $1Egg
+    rawWeight: 11
+    type: 1
+- floorInfo:
+    sublevel: 2
+    maxMainTeki: 10
+    maxItem: 2
+    maxGate: 2
+    capProb: 0.5
+    maxRoom: 3
+    corridorProb: 0.2
+    hasGeyser: false
+    caveUnitFile: 1_units_a_conc.txt
+    lightingFile: normal_light_lv2.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Sarai
+    rawWeight: 20
+    type: 1
+  - rawTekiName: ElecBug
+    rawWeight: 40
+    type: 1
+  - rawTekiName: ElecBug
+    rawWeight: 20
+    type: 0
+  - rawTekiName: ElecBug
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Zenmai
+    rawWeight: 8
+    type: 6
+  itemInfo:
+  - itemName: sinjyu
+    rawWeight: 10
+  - itemName: kan_nichiro
+    rawWeight: 10
+  gateInfo:
+  - gateName: gate
+    gateLife: 4000.0
+    weight: 1
+  capInfo:
+  - capType: 0
+    rawTekiName: $1RandPom
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1
+  - capType: 0
+    rawTekiName: $1Sarai
+    rawWeight: 10
+    type: 1
+- floorInfo:
+    sublevel: 3
+    maxMainTeki: 10
+    maxItem: 2
+    maxGate: 3
+    capProb: 0.5
+    maxRoom: 3
+    corridorProb: 0.2
+    hasGeyser: false
+    caveUnitFile: 3_ABE_d_pypen_dani_conc.txt
+    lightingFile: normal_light_lv3.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Jigumo_chocolate
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Jigumo
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Catfish
+    rawWeight: 30
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 30
+    type: 5
+  - rawTekiName: Zenmai
+    rawWeight: 4
+    type: 6
+  itemInfo:
+  - itemName: locket
+    rawWeight: 10
+  - itemName: tape_blue
+    rawWeight: 10
+  gateInfo:
+  - gateName: gate
+    gateLife: 4000.0
+    weight: 1
+  capInfo:
+  - capType: 0
+    rawTekiName: WhitePom
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1
+- floorInfo:
+    sublevel: 4
+    maxMainTeki: 10
+    maxItem: 1
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_DKumo_conc.txt
+    lightingFile: normal_light_lv4.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 1
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Damagumo_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Kogane
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Clover
+    rawWeight: 30
+    type: 0
+  - rawTekiName: KareOoinu_s
+    rawWeight: 50
+    type: 0
+  - rawTekiName: HikariKinoko
+    rawWeight: 2
+    type: 6
+  itemInfo:
+  - itemName: diamond_blue
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

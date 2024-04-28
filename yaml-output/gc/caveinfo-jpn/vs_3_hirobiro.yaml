@@ -1,0 +1,59 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 60
+    maxItem: 0
+    maxGate: 0
+    capProb: 1.0
+    maxRoom: 4
+    corridorProb: 0.15
+    hasGeyser: false
+    caveUnitFile: vs_3_toy.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: tatami
+    holeClogged: false
+    echoStrength: 5
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Pelplant
+    rawWeight: 100
+    type: 0
+  - rawTekiName: BlueKochappy
+    rawWeight: 100
+    type: 1
+  - rawTekiName: Mar
+    rawWeight: 20
+    type: 8
+  - rawTekiName: Pelplant
+    rawWeight: 2
+    type: 1
+  - rawTekiName: Kochappy
+    rawWeight: 2
+    type: 0
+  - rawTekiName: Egg
+    rawWeight: 51
+    type: 0
+  - rawTekiName: UjiA
+    rawWeight: 1
+    type: 0
+  - rawTekiName: Egg
+    rawWeight: 1
+    type: 5
+  - rawTekiName: UjiA
+    rawWeight: 1
+    type: 5
+  - rawTekiName: Rock
+    rawWeight: 1
+    type: 1
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1

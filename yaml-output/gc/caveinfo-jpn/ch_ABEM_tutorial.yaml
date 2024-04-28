@@ -1,0 +1,105 @@
+numSublevels: 2
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 0
+    maxItem: 4
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_units_cent3_tsuchi.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Clover
+    rawWeight: 4
+    type: 6
+  - rawTekiName: Tukushi
+    rawWeight: 1
+    type: 6
+  - rawTekiName: Ooinu_s
+    rawWeight: 2
+    type: 6
+  - rawTekiName: KareOoinu_s
+    rawWeight: 3
+    type: 6
+  itemInfo:
+  - itemName: key
+    rawWeight: 10
+  - itemName: gold_medal
+    rawWeight: 10
+  - itemName: silver_medal
+    rawWeight: 10
+  - itemName: wadou_kaichin
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 7
+    maxItem: 3
+    maxGate: 0
+    capProb: 1.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 2_MAT_mid1_nor2_tsuchi.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Chappy_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Kochappy_be_dama_red
+    rawWeight: 50
+    type: 1
+  - rawTekiName: Egg
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Clover
+    rawWeight: 2
+    type: 6
+  - rawTekiName: Tukushi
+    rawWeight: 2
+    type: 6
+  - rawTekiName: Ooinu_s
+    rawWeight: 2
+    type: 6
+  - rawTekiName: Ooinu_l
+    rawWeight: 2
+    type: 6
+  - rawTekiName: KareOoinu_s
+    rawWeight: 2
+    type: 6
+  - rawTekiName: KareOoinu_l
+    rawWeight: 2
+    type: 6
+  itemInfo:
+  - itemName: gold_medal
+    rawWeight: 10
+  - itemName: silver_medal
+    rawWeight: 10
+  - itemName: wadou_kaichin
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 20
+    type: 1

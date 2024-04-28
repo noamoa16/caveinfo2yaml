@@ -1,0 +1,515 @@
+numSublevels: 9
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 19
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 3_MAT_mid1_mid2_uzu1_snow.txt
+    lightingFile: tutorial_1_light.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: YellowChappy
+    rawWeight: 10
+    type: 1
+  - rawTekiName: YellowChappy
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Demon
+    rawWeight: 10
+    type: 1
+  - rawTekiName: YellowKochappy
+    rawWeight: 10
+    type: 1
+  - rawTekiName: YellowKochappy
+    rawWeight: 30
+    type: 0
+  - rawTekiName: YellowKochappy
+    rawWeight: 30
+    type: 0
+  - rawTekiName: YellowKochappy
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Demon
+    rawWeight: 10
+    type: 1
+  - rawTekiName: GasHiba
+    rawWeight: 10
+    type: 1
+  - rawTekiName: GasHiba
+    rawWeight: 50
+    type: 5
+  itemInfo:
+  - itemName: gum_tape_s
+    rawWeight: 10
+  - itemName: tel_dial
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: $Egg
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: $Demon
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: $Egg
+    rawWeight: 10
+    type: 1
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 10
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_MAT_h335_h447_metal.txt
+    lightingFile: metal_light_lv1.ini
+    skyboxFile: ice
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: BombSarai
+    rawWeight: 30
+    type: 1
+  - rawTekiName: Sarai
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Bomb
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Bomb
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 20
+    type: 0
+  - rawTekiName: DaiodoRed
+    rawWeight: 6
+    type: 6
+  - rawTekiName: DaiodoGreen
+    rawWeight: 6
+    type: 6
+  itemInfo:
+  - itemName: sinkukan_c
+    rawWeight: 10
+  - itemName: gear_silver
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 20
+    type: 1
+  - capType: 0
+    rawTekiName: $Bomb
+    rawWeight: 30
+    type: 1
+- floorInfo:
+    sublevel: 2
+    maxMainTeki: 10
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.4
+    maxRoom: 6
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_MAT_h224_h443_tekiF_metal.txt
+    lightingFile: metal_light_lv2.ini
+    skyboxFile: ice
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Fkabuto_bolt
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Kabuto
+    rawWeight: 10
+    type: 8
+  - rawTekiName: WhitePom
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Kabuto
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 50
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: DaiodoRed
+    rawWeight: 8
+    type: 6
+  - rawTekiName: DaiodoGreen
+    rawWeight: 8
+    type: 6
+  itemInfo:
+  - itemName: gear
+    rawWeight: 10
+  - itemName: bane
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: $Egg
+    rawWeight: 30
+    type: 1
+  - capType: 0
+    rawTekiName: $Bomb
+    rawWeight: 10
+    type: 1
+- floorInfo:
+    sublevel: 3
+    maxMainTeki: 6
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 4
+    corridorProb: 0.05
+    hasGeyser: true
+    caveUnitFile: 1_units_hit224_metal.txt
+    lightingFile: metal_light_lv0.ini
+    skyboxFile: test
+    holeClogged: false
+    echoStrength: 1
+    musicType: 2
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: WhitePom
+    rawWeight: 30
+    type: 1
+  - rawTekiName: Egg
+    rawWeight: 30
+    type: 0
+  - rawTekiName: DaiodoGreen
+    rawWeight: 10
+    type: 6
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 30
+    type: 1
+- floorInfo:
+    sublevel: 4
+    maxMainTeki: 30
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_units_nobo2_metal.txt
+    lightingFile: metal_light_lv1.ini
+    skyboxFile: test
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: BombOtakara
+    rawWeight: 30
+    type: 1
+  - rawTekiName: $BombOtakara
+    rawWeight: 30
+    type: 1
+  - rawTekiName: Bomb
+    rawWeight: 30
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 20
+    type: 0
+  - rawTekiName: $Bomb
+    rawWeight: 30
+    type: 1
+  - rawTekiName: $Bomb
+    rawWeight: 10
+    type: 0
+  - rawTekiName: $Bomb
+    rawWeight: 10
+    type: 0
+  - rawTekiName: $Bomb
+    rawWeight: 10
+    type: 0
+  - rawTekiName: $Bomb
+    rawWeight: 10
+    type: 0
+  - rawTekiName: $Bomb
+    rawWeight: 10
+    type: 0
+  - rawTekiName: $Bomb
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 20
+    type: 0
+  - rawTekiName: DaiodoRed
+    rawWeight: 6
+    type: 6
+  - rawTekiName: DaiodoGreen
+    rawWeight: 6
+    type: 6
+  itemInfo:
+  - itemName: mojiban
+    rawWeight: 10
+  - itemName: nut
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: $4BombOtakara
+    rawWeight: 20
+    type: 1
+- floorInfo:
+    sublevel: 5
+    maxMainTeki: 15
+    maxItem: 3
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 5_units_mid2_cent_hit4_hit5_nor2_metal.txt
+    lightingFile: chikahimi_metal_light_lv4.ini
+    skyboxFile: test
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: BombSarai
+    rawWeight: 20
+    type: 1
+  - rawTekiName: GasHiba
+    rawWeight: 20
+    type: 1
+  - rawTekiName: ElecBug
+    rawWeight: 60
+    type: 0
+  - rawTekiName: FireOtakara
+    rawWeight: 10
+    type: 0
+  - rawTekiName: FireOtakara
+    rawWeight: 10
+    type: 0
+  - rawTekiName: GasOtakara
+    rawWeight: 10
+    type: 0
+  - rawTekiName: GasOtakara
+    rawWeight: 10
+    type: 0
+  - rawTekiName: GasHiba
+    rawWeight: 10
+    type: 5
+  - rawTekiName: DaiodoRed
+    rawWeight: 6
+    type: 6
+  - rawTekiName: DaiodoGreen
+    rawWeight: 6
+    type: 6
+  itemInfo:
+  - itemName: sinkukan
+    rawWeight: 10
+  - itemName: channel
+    rawWeight: 10
+  - itemName: bolt_l
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 10
+    type: 1
+- floorInfo:
+    sublevel: 6
+    maxMainTeki: 28
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 4
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 3_MAT_ari_h446_h443_tower_metal.txt
+    lightingFile: houdai_light.ini
+    skyboxFile: build
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: FminiHoudai_sinkukan_b
+    rawWeight: 10
+    type: 8
+  - rawTekiName: MiniHoudai
+    rawWeight: 10
+    type: 1
+  - rawTekiName: BombSarai
+    rawWeight: 10
+    type: 5
+  - rawTekiName: Bomb
+    rawWeight: 40
+    type: 1
+  - rawTekiName: Bomb
+    rawWeight: 30
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 30
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 30
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 30
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 30
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 30
+    type: 0
+  - rawTekiName: Bomb
+    rawWeight: 30
+    type: 0
+  - rawTekiName: DaiodoRed
+    rawWeight: 7
+    type: 6
+  - rawTekiName: DaiodoGreen
+    rawWeight: 7
+    type: 6
+  itemInfo:
+  - itemName: denchi_1_black
+    rawWeight: 10
+  - itemName: tape_red
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 20
+    type: 1
+  - capType: 0
+    rawTekiName: $4BombOtakara
+    rawWeight: 11
+    type: 1
+- floorInfo:
+    sublevel: 7
+    maxMainTeki: 11
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 6
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_hit224_metal.txt
+    lightingFile: houdai_light.ini
+    skyboxFile: build
+    holeClogged: false
+    echoStrength: 1
+    musicType: 2
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: RandPom
+    rawWeight: 20
+    type: 1
+  - rawTekiName: BlackPom
+    rawWeight: 30
+    type: 1
+  - rawTekiName: Egg
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Egg
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Egg
+    rawWeight: 20
+    type: 5
+  - rawTekiName: DaiodoGreen
+    rawWeight: 12
+    type: 6
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1
+- floorInfo:
+    sublevel: 8
+    maxMainTeki: 1
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_houdai_metal.txt
+    lightingFile: houdai_light.ini
+    skyboxFile: build
+    holeClogged: true
+    echoStrength: 1
+    musicType: 1
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Houdai_light_a
+    rawWeight: 10
+    type: 1
+  - rawTekiName: DaiodoRed
+    rawWeight: 5
+    type: 6
+  - rawTekiName: DaiodoGreen
+    rawWeight: 5
+    type: 6
+  itemInfo: []
+  gateInfo: []
+  capInfo: []

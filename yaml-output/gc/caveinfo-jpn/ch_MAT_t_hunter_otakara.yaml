@@ -1,0 +1,65 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 11
+    maxItem: 10
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_MAT_manp_2_conc.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: FireOtakara_be_dama_red
+    rawWeight: 10
+    type: 5
+  - rawTekiName: WaterOtakara_be_dama_blue
+    rawWeight: 10
+    type: 5
+  - rawTekiName: GasOtakara_flower_blue
+    rawWeight: 10
+    type: 5
+  - rawTekiName: FireOtakara_be_dama_red
+    rawWeight: 20
+    type: 1
+  - rawTekiName: WaterOtakara_be_dama_blue
+    rawWeight: 20
+    type: 1
+  - rawTekiName: GasOtakara_flower_blue
+    rawWeight: 20
+    type: 1
+  - rawTekiName: ElecOtakara_wadou_kaichin
+    rawWeight: 20
+    type: 1
+  itemInfo:
+  - itemName: key
+    rawWeight: 10
+  - itemName: saru_head
+    rawWeight: 10
+  - itemName: badminton
+    rawWeight: 10
+  - itemName: turi_uki
+    rawWeight: 10
+  - itemName: toy_cat
+    rawWeight: 10
+  - itemName: chocolate_l
+    rawWeight: 10
+  - itemName: toy_ring_c_blue
+    rawWeight: 10
+  - itemName: ichigo_l
+    rawWeight: 10
+  - itemName: ahiru_head
+    rawWeight: 10
+  - itemName: bird_hane
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

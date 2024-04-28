@@ -1,0 +1,269 @@
+numSublevels: 7
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 1
+    maxItem: 4
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_MAT_mid2_tsuchi.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: vrbox
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Chappy_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Tukushi
+    rawWeight: 2
+    type: 6
+  itemInfo:
+  - itemName: toy_ring_a_red
+    rawWeight: 10
+  - itemName: bane_red
+    rawWeight: 10
+  - itemName: compact
+    rawWeight: 10
+  - itemName: dashboots
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 1
+    maxItem: 4
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 4
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_units_tako_north_tile.txt
+    lightingFile: normal_light_lv0.ini
+    skyboxFile: vrbox
+    holeClogged: false
+    echoStrength: 3
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: BlueChappy_key
+    rawWeight: 10
+    type: 1
+  itemInfo:
+  - itemName: be_dama_blue_l
+    rawWeight: 10
+  - itemName: bey_goma
+    rawWeight: 10
+  - itemName: toy_cat
+    rawWeight: 10
+  - itemName: channel
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 2
+    maxMainTeki: 1
+    maxItem: 5
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_units_north_metal.txt
+    lightingFile: metal_light_lv2.ini
+    skyboxFile: build
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Chappy_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: DaiodoRed
+    rawWeight: 2
+    type: 6
+  - rawTekiName: DaiodoGreen
+    rawWeight: 2
+    type: 6
+  itemInfo:
+  - itemName: gear
+    rawWeight: 10
+  - itemName: watch
+    rawWeight: 10
+  - itemName: sinkukan_c
+    rawWeight: 10
+  - itemName: bolt_l
+    rawWeight: 10
+  - itemName: tatebue
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 3
+    maxMainTeki: 1
+    maxItem: 5
+    maxGate: 0
+    capProb: 1.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_NARI_4x4b_conc.txt
+    lightingFile: normal_light_lv0.ini
+    skyboxFile: vrbox
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: YellowChappy_key
+    rawWeight: 10
+    type: 1
+  itemInfo:
+  - itemName: dia_b_red
+    rawWeight: 10
+  - itemName: dia_c_red
+    rawWeight: 10
+  - itemName: dia_c_green
+    rawWeight: 10
+  - itemName: donutschoco_s
+    rawWeight: 10
+  - itemName: tape_blue
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 4
+    maxMainTeki: 1
+    maxItem: 3
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_NARI_north4_tsuchi.txt
+    lightingFile: normal_light_lv1.ini
+    skyboxFile: vrbox
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Chappy_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Zenmai
+    rawWeight: 3
+    type: 6
+  - rawTekiName: HikariKinoko
+    rawWeight: 3
+    type: 6
+  itemInfo:
+  - itemName: compact_make
+    rawWeight: 10
+  - itemName: locket
+    rawWeight: 10
+  - itemName: diamond_green_l
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 5
+    maxMainTeki: 1
+    maxItem: 5
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 4
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_units_tako_north_tile.txt
+    lightingFile: normal_light_lv2.ini
+    skyboxFile: vrbox
+    holeClogged: false
+    echoStrength: 3
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: BlueChappy_key
+    rawWeight: 10
+    type: 1
+  itemInfo:
+  - itemName: creap
+    rawWeight: 10
+  - itemName: toy_lady
+    rawWeight: 10
+  - itemName: toy_dog
+    rawWeight: 10
+  - itemName: otama
+    rawWeight: 10
+  - itemName: sensya
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 6
+    maxMainTeki: 1
+    maxItem: 11
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_MIYA_manh2_conc.txt
+    lightingFile: normal_light_lv0.ini
+    skyboxFile: vrbox
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: MiniHoudai_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Wakame_l
+    rawWeight: 1
+    type: 6
+  itemInfo:
+  - itemName: robot_head
+    rawWeight: 10
+  - itemName: j_block_red
+    rawWeight: 10
+  - itemName: j_block_yellow
+    rawWeight: 10
+  - itemName: j_block_green
+    rawWeight: 10
+  - itemName: j_block_blue
+    rawWeight: 10
+  - itemName: j_block_white
+    rawWeight: 10
+  - itemName: juji_key
+    rawWeight: 10
+  - itemName: juji_key_fc
+    rawWeight: 10
+  - itemName: donutswhite
+    rawWeight: 10
+  - itemName: donutsichigo_s
+    rawWeight: 10
+  - itemName: radar_a
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

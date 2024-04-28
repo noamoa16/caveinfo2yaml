@@ -1,0 +1,63 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 14
+    maxItem: 3
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 3_MAT_hit34_sak2_uzu1_snow.txt
+    lightingFile: tutorial_1_light.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: OniKurage_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: BombSarai_be_dama_red
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Demon_be_dama_blue
+    rawWeight: 20
+    type: 1
+  - rawTekiName: FireOtakara_be_dama_red
+    rawWeight: 10
+    type: 0
+  - rawTekiName: FireOtakara_be_dama_red
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Demon_be_dama_blue
+    rawWeight: 10
+    type: 0
+  - rawTekiName: BombSarai_be_dama_red
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Sarai_wadou_kaichin
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: HikariKinoko
+    rawWeight: 7
+    type: 6
+  itemInfo:
+  - itemName: ahiru
+    rawWeight: 10
+  - itemName: ahiru_head
+    rawWeight: 10
+  - itemName: ichigo_l
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

@@ -1,0 +1,61 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 7
+    maxItem: 2
+    maxGate: 2
+    capProb: 0.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_MAT_ike_kusachi.txt
+    lightingFile: kusachi_light_cha.ini
+    skyboxFile: hiroba
+    holeClogged: false
+    echoStrength: 4
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Tank_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Jigumo_silver_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Jigumo_silver_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Frog_turi_uki
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Catfish_wadou_kaichin
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Catfish_wadou_kaichin
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Catfish_wadou_kaichin
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Clover
+    rawWeight: 5
+    type: 6
+  - rawTekiName: Zenmai
+    rawWeight: 5
+    type: 6
+  - rawTekiName: Clover
+    rawWeight: 5
+    type: 6
+  itemInfo:
+  - itemName: kan
+    rawWeight: 10
+  - itemName: dia_c_green
+    rawWeight: 10
+  gateInfo:
+  - gateName: gate
+    gateLife: 4000.0
+    weight: 11
+  capInfo: []

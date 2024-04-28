@@ -1,0 +1,175 @@
+numSublevels: 5
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 10
+    maxItem: 1
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_ABE_nor1_cen2_metal.txt
+    lightingFile: metal_light_lv0.ini
+    skyboxFile: test
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: UjiB
+    rawWeight: 40
+    type: 1
+  - rawTekiName: UjiA
+    rawWeight: 20
+    type: 0
+  - rawTekiName: UjiA
+    rawWeight: 20
+    type: 0
+  - rawTekiName: UjiA
+    rawWeight: 20
+    type: 0
+  itemInfo:
+  - itemName: fire_helmet
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 2
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_ABE_ari_metal.txt
+    lightingFile: metal_light_lv1.ini
+    skyboxFile: test
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Tank
+    rawWeight: 20
+    type: 1
+  itemInfo:
+  - itemName: chocoichigo_l
+    rawWeight: 10
+  - itemName: diamond_red
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 2
+    maxMainTeki: 6
+    maxItem: 1
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_units_white_metal.txt
+    lightingFile: forest_2_siro_light.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 2
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: WhitePom
+    rawWeight: 30
+    type: 1
+  - rawTekiName: Qurione
+    rawWeight: 20
+    type: 8
+  - rawTekiName: DaiodoGreen
+    rawWeight: 10
+    type: 0
+  - rawTekiName: KareOoinu_s
+    rawWeight: 6
+    type: 6
+  - rawTekiName: KareOoinu_l
+    rawWeight: 2
+    type: 6
+  - rawTekiName: Clover
+    rawWeight: 2
+    type: 6
+  itemInfo:
+  - itemName: gum_tape
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 3
+    maxMainTeki: 5
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 3
+    corridorProb: 0.1
+    hasGeyser: false
+    caveUnitFile: 3_ABE_sak1_sak2_hit1_tsuchi.txt
+    lightingFile: normal_light_lv3.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: GasHiba
+    rawWeight: 1
+    type: 5
+  itemInfo:
+  - itemName: g_futa_kajiwara
+    rawWeight: 10
+  - itemName: kinoko_doku
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 4
+    maxMainTeki: 4
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_snake_tsuchi.txt
+    lightingFile: normal_light_lv2.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 1
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: SnakeCrow_radar_b
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Egg
+    rawWeight: 30
+    type: 0
+  - rawTekiName: KareOoinu_l
+    rawWeight: 3
+    type: 6
+  - rawTekiName: KareOoinu_s
+    rawWeight: 7
+    type: 6
+  - rawTekiName: Zenmai
+    rawWeight: 5
+    type: 6
+  itemInfo: []
+  gateInfo: []
+  capInfo: []

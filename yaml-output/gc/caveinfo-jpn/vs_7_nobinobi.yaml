@@ -1,0 +1,56 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 40
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.8
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: vs_7_kusachi.txt
+    lightingFile: vs_7_light.ini
+    skyboxFile: hiroba
+    holeClogged: false
+    echoStrength: 5
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Rkabuto_be_dama_yellow_l
+    rawWeight: 40
+    type: 1
+  - rawTekiName: Pelplant
+    rawWeight: 100
+    type: 0
+  - rawTekiName: Pelplant
+    rawWeight: 3
+    type: 5
+  - rawTekiName: Armor
+    rawWeight: 40
+    type: 1
+  - rawTekiName: Sokkuri
+    rawWeight: 80
+    type: 0
+  - rawTekiName: $1Egg
+    rawWeight: 50
+    type: 1
+  - rawTekiName: Clover
+    rawWeight: 4
+    type: 6
+  - rawTekiName: Magaret
+    rawWeight: 2
+    type: 6
+  - rawTekiName: Tanpopo
+    rawWeight: 2
+    type: 6
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1

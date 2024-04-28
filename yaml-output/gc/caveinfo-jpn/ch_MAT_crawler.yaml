@@ -1,0 +1,118 @@
+numSublevels: 2
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 21
+    maxItem: 3
+    maxGate: 3
+    capProb: 0.0
+    maxRoom: 4
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 4_units_c_e_j_l_conc.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Hana_silver_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Hana_silver_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Armor_wadou_kaichin
+    rawWeight: 30
+    type: 1
+  - rawTekiName: Wealthy_gold_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Magaret
+    rawWeight: 30
+    type: 1
+  - rawTekiName: UjiA_be_dama_red
+    rawWeight: 31
+    type: 0
+  - rawTekiName: UjiB_be_dama_blue
+    rawWeight: 31
+    type: 0
+  - rawTekiName: Tobi_donguri
+    rawWeight: 31
+    type: 0
+  - rawTekiName: Magaret
+    rawWeight: 2
+    type: 6
+  - rawTekiName: Wakame_l
+    rawWeight: 1
+    type: 6
+  - rawTekiName: Wakame_s
+    rawWeight: 1
+    type: 6
+  - rawTekiName: Ooinu_s
+    rawWeight: 2
+    type: 6
+  - rawTekiName: Ooinu_l
+    rawWeight: 2
+    type: 6
+  - rawTekiName: Clover
+    rawWeight: 6
+    type: 6
+  itemInfo:
+  - itemName: key
+    rawWeight: 10
+  - itemName: haniwa
+    rawWeight: 10
+  - itemName: kouseki_suisyou
+    rawWeight: 10
+  gateInfo:
+  - gateName: gate
+    gateLife: 4000.0
+    weight: 1
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 7
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_manh_conc.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 1
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: SnakeWhole_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: KareOoinu_l
+    rawWeight: 10
+    type: 0
+  - rawTekiName: KareOoinu_l
+    rawWeight: 10
+    type: 0
+  - rawTekiName: KareOoinu_s
+    rawWeight: 10
+    type: 0
+  - rawTekiName: KareOoinu_s
+    rawWeight: 10
+    type: 0
+  - rawTekiName: KareOoinu_l
+    rawWeight: 10
+    type: 0
+  - rawTekiName: KareOoinu_l
+    rawWeight: 10
+    type: 0
+  itemInfo: []
+  gateInfo: []
+  capInfo: []

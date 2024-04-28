@@ -1,0 +1,47 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 7
+    maxItem: 4
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_bunki_2_tile.txt
+    lightingFile: normal_light_lv0.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 3
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: KumaChappy_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: KumaChappy_diamond_blue_l
+    rawWeight: 10
+    type: 1
+  - rawTekiName: KumaChappy_diamond_blue_l
+    rawWeight: 10
+    type: 1
+  - rawTekiName: KumaKochappy_be_dama_blue
+    rawWeight: 20
+    type: 0
+  - rawTekiName: KumaKochappy_be_dama_blue
+    rawWeight: 20
+    type: 0
+  itemInfo:
+  - itemName: diamond_red
+    rawWeight: 10
+  - itemName: diamond_red_l
+    rawWeight: 10
+  - itemName: diamond_green_l
+    rawWeight: 10
+  - itemName: flask
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

@@ -1,0 +1,101 @@
+numSublevels: 2
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 8
+    maxItem: 1
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_MAT_cent_north_tsuchi.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: vrbox
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: RandPom
+    rawWeight: 20
+    type: 1
+  - rawTekiName: YellowKochappy_chocowhite
+    rawWeight: 10
+    type: 5
+  - rawTekiName: Kochappy_ichigo
+    rawWeight: 10
+    type: 5
+  - rawTekiName: BlueKochappy_donguri
+    rawWeight: 10
+    type: 0
+  - rawTekiName: KumaKochappy_cookie_u
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Egg
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Wakame_s
+    rawWeight: 2
+    type: 6
+  - rawTekiName: Wakame_l
+    rawWeight: 1
+    type: 6
+  - rawTekiName: Ooinu_s
+    rawWeight: 6
+    type: 6
+  itemInfo:
+  - itemName: key
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: RandPom
+    rawWeight: 10
+    type: 1
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 7
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 2_MAT_cent_north_tsuchi.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: vrbox
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Wtank_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: RandPom
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Tank_silver_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: ElecHiba
+    rawWeight: 40
+    type: 5
+  - rawTekiName: Ooinu_l
+    rawWeight: 4
+    type: 6
+  - rawTekiName: Wakame_l
+    rawWeight: 4
+    type: 6
+  itemInfo:
+  - itemName: dia_a_green
+    rawWeight: 10
+  - itemName: chess_queen_white
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

@@ -1,0 +1,103 @@
+numSublevels: 2
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 3
+    maxItem: 4
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_units_houdai_metal.txt
+    lightingFile: houdai_light.ini
+    skyboxFile: build
+    holeClogged: false
+    echoStrength: 1
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: MiniHoudai_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: MiniHoudai_juji_key_fc
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Wealthy_gold_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: DaiodoRed
+    rawWeight: 5
+    type: 6
+  - rawTekiName: DaiodoGreen
+    rawWeight: 5
+    type: 6
+  itemInfo:
+  - itemName: donutsichigo_s
+    rawWeight: 10
+  - itemName: radar_a
+    rawWeight: 10
+  - itemName: donutswhite
+    rawWeight: 10
+  - itemName: juji_key
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 7
+    maxItem: 5
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_houdai2_metal.txt
+    lightingFile: houdai_light.ini
+    skyboxFile: ice
+    holeClogged: false
+    echoStrength: 1
+    musicType: 1
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Houdai_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: DaiodoRed
+    rawWeight: 3
+    type: 6
+  - rawTekiName: DaiodoGreen
+    rawWeight: 3
+    type: 6
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 5
+  - rawTekiName: GasHiba
+    rawWeight: 20
+    type: 5
+  - rawTekiName: ElecHiba
+    rawWeight: 20
+    type: 5
+  itemInfo:
+  - itemName: robot_head
+    rawWeight: 10
+  - itemName: j_block_red
+    rawWeight: 10
+  - itemName: j_block_green
+    rawWeight: 10
+  - itemName: j_block_blue
+    rawWeight: 10
+  - itemName: j_block_yellow
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 10
+    type: 1

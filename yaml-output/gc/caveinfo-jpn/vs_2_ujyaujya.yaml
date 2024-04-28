@@ -1,0 +1,47 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 60
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 4
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: vs_2_snow.txt
+    lightingFile: vs_2_light.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Kochappy_be_dama_yellow_l
+    rawWeight: 40
+    type: 1
+  - rawTekiName: Pelplant
+    rawWeight: 100
+    type: 0
+  - rawTekiName: Kabuto
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Egg
+    rawWeight: 100
+    type: 5
+  - rawTekiName: YellowKochappy
+    rawWeight: 3
+    type: 0
+  - rawTekiName: Kochappy
+    rawWeight: 1
+    type: 1
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1

@@ -1,0 +1,44 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 35
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 8
+    corridorProb: 0.02
+    hasGeyser: false
+    caveUnitFile: vs_9_tsuchi.txt
+    lightingFile: muraon_light_lv4.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Pelplant
+    rawWeight: 100
+    type: 0
+  - rawTekiName: Pelplant
+    rawWeight: 3
+    type: 1
+  - rawTekiName: Panmodoki
+    rawWeight: 40
+    type: 1
+  - rawTekiName: UjiA
+    rawWeight: 2
+    type: 0
+  - rawTekiName: Egg
+    rawWeight: 50
+    type: 1
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1

@@ -1,0 +1,43 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 5
+    maxItem: 3
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 2_units_Oashi_s_yuko_conc.txt
+    lightingFile: normal_light_lv0.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 1
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: BigFoot_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 5
+  - rawTekiName: GasOtakara_be_dama_red
+    rawWeight: 3
+    type: 6
+  itemInfo:
+  - itemName: diamond_blue
+    rawWeight: 10
+  - itemName: makigai
+    rawWeight: 10
+  - itemName: akagai
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

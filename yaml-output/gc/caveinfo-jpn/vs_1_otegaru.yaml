@@ -1,0 +1,44 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 30
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 4
+    corridorProb: 0.05
+    hasGeyser: false
+    caveUnitFile: vs_1_tsuchi.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 0
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Pelplant
+    rawWeight: 100
+    type: 0
+  - rawTekiName: Kochappy
+    rawWeight: 40
+    type: 1
+  - rawTekiName: UjiA
+    rawWeight: 1
+    type: 0
+  - rawTekiName: UjiA
+    rawWeight: 1
+    type: 5
+  - rawTekiName: Egg
+    rawWeight: 50
+    type: 1
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1

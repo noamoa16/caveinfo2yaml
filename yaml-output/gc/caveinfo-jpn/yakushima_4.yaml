@@ -1,0 +1,291 @@
+numSublevels: 5
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 10
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 2_units_gw_l_conc.txt
+    lightingFile: suityu_light_lv0.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 300.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: BlackMan_fue_pullout
+    rawWeight: 10
+    type: 1
+  - rawTekiName: FireChappy_cookie
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Tank
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 40
+    type: 5
+  - rawTekiName: Zenmai
+    rawWeight: 9
+    type: 6
+  itemInfo:
+  - itemName: baum_kuchen_s
+    rawWeight: 10
+  - itemName: chocoichigo
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1
+  - capType: 0
+    rawTekiName: $1Tank
+    rawWeight: 10
+    type: 1
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 10
+    maxItem: 2
+    maxGate: 2
+    capProb: 0.0
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 3_units_h_k_pypes_conc.txt
+    lightingFile: suityu_light_lv1.ini
+    skyboxFile: none
+    holeClogged: true
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 300.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: BlackMan_fue_pullout
+    rawWeight: 10
+    type: 1
+  - rawTekiName: BombSarai
+    rawWeight: 10
+    type: 1
+  - rawTekiName: LeafChappy_cookie_s
+    rawWeight: 10
+    type: 1
+  - rawTekiName: BlueKochappy
+    rawWeight: 20
+    type: 0
+  - rawTekiName: BlueKochappy
+    rawWeight: 10
+    type: 0
+  - rawTekiName: FireOtakara
+    rawWeight: 30
+    type: 8
+  - rawTekiName: $4FireOtakara
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Zenmai
+    rawWeight: 9
+    type: 6
+  itemInfo:
+  - itemName: donutschoco
+    rawWeight: 10
+  - itemName: baum_kuchen
+    rawWeight: 10
+  gateInfo:
+  - gateName: gate
+    gateLife: 4000.0
+    weight: 1
+  capInfo: []
+- floorInfo:
+    sublevel: 2
+    maxMainTeki: 15
+    maxItem: 2
+    maxGate: 3
+    capProb: 0.5
+    maxRoom: 4
+    corridorProb: 0.2
+    hasGeyser: false
+    caveUnitFile: 3_units_f_g_m_conc.txt
+    lightingFile: suityu_light_lv2.ini
+    skyboxFile: none
+    holeClogged: true
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 300.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: BlackMan_fue_pullout
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Hanachirashi_g_futa_nihonraku
+    rawWeight: 10
+    type: 1
+  - rawTekiName: LeafChappy
+    rawWeight: 10
+    type: 1
+  - rawTekiName: MaroFrog
+    rawWeight: 10
+    type: 1
+  - rawTekiName: ElecOtakara
+    rawWeight: 20
+    type: 1
+  - rawTekiName: ElecBug
+    rawWeight: 20
+    type: 0
+  - rawTekiName: ElecBug
+    rawWeight: 20
+    type: 0
+  - rawTekiName: ElecHiba
+    rawWeight: 50
+    type: 5
+  - rawTekiName: Zenmai
+    rawWeight: 9
+    type: 6
+  itemInfo:
+  - itemName: cookie_u
+    rawWeight: 10
+  - itemName: cookie_s_l
+    rawWeight: 10
+  gateInfo:
+  - gateName: gate
+    gateLife: 4000.0
+    weight: 1
+  capInfo:
+  - capType: 0
+    rawTekiName: WhitePom
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1
+  - capType: 0
+    rawTekiName: $1Hanachirashi
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: $4ElecOtakara
+    rawWeight: 10
+    type: 1
+- floorInfo:
+    sublevel: 3
+    maxMainTeki: 25
+    maxItem: 2
+    maxGate: 4
+    capProb: 0.5
+    maxRoom: 4
+    corridorProb: 0.2
+    hasGeyser: false
+    caveUnitFile: 4_units_d_j_n_o_conc.txt
+    lightingFile: suityu_light_lv3.ini
+    skyboxFile: none
+    holeClogged: true
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 300.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: BlackMan_fue_pullout
+    rawWeight: 10
+    type: 1
+  - rawTekiName: $1BombOtakara
+    rawWeight: 50
+    type: 1
+  - rawTekiName: $1BombSarai
+    rawWeight: 20
+    type: 1
+  - rawTekiName: $1Bomb
+    rawWeight: 31
+    type: 1
+  - rawTekiName: $1Bomb
+    rawWeight: 31
+    type: 0
+  - rawTekiName: LeafChappy
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Wealthy_chocowhite
+    rawWeight: 10
+    type: 1
+  - rawTekiName: GasHiba
+    rawWeight: 30
+    type: 5
+  - rawTekiName: Zenmai
+    rawWeight: 9
+    type: 6
+  itemInfo:
+  - itemName: kan_imuraya
+    rawWeight: 10
+  - itemName: denchi_3_red
+    rawWeight: 10
+  gateInfo:
+  - gateName: gate
+    gateLife: 4000.0
+    weight: 1
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1
+- floorInfo:
+    sublevel: 4
+    maxMainTeki: 4
+    maxItem: 0
+    maxGate: 4
+    capProb: 0.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_manh_boss_conc.txt
+    lightingFile: normal_light_lv4.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 1
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 15.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: BlackMan_fue_pullout
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Egg
+    rawWeight: 30
+    type: 1
+  - rawTekiName: KareOoinu_s
+    rawWeight: 3
+    type: 6
+  - rawTekiName: Zenmai
+    rawWeight: 3
+    type: 6
+  itemInfo: []
+  gateInfo:
+  - gateName: gate
+    gateLife: 100.0
+    weight: 1
+  capInfo:
+  - capType: 0
+    rawTekiName: BlackPom
+    rawWeight: 20
+    type: 1

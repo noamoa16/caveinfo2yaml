@@ -1,0 +1,145 @@
+numSublevels: 3
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 20
+    maxItem: 1
+    maxGate: 0
+    capProb: 1.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_units_big2_kusachi.txt
+    lightingFile: kusachi_light_lv0.ini
+    skyboxFile: hiroba
+    holeClogged: false
+    echoStrength: 4
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Hana_silver_medal
+    rawWeight: 20
+    type: 1
+  - rawTekiName: RandPom
+    rawWeight: 20
+    type: 8
+  - rawTekiName: Tanpopo
+    rawWeight: 20
+    type: 6
+  - rawTekiName: Magaret
+    rawWeight: 60
+    type: 6
+  - rawTekiName: Clover
+    rawWeight: 80
+    type: 1
+  - rawTekiName: Ooinu_s
+    rawWeight: 80
+    type: 1
+  itemInfo:
+  - itemName: key
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: RandPom
+    rawWeight: 30
+    type: 1
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 4
+    maxItem: 2
+    maxGate: 10
+    capProb: 1.0
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_NARI_4x4b_conc.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: RandPom
+    rawWeight: 20
+    type: 8
+  - rawTekiName: Chappy_be_dama_red_l
+    rawWeight: 20
+    type: 8
+  itemInfo:
+  - itemName: key
+    rawWeight: 10
+  - itemName: gold_medal
+    rawWeight: 10
+  gateInfo:
+  - gateName: gate
+    gateLife: 4000.0
+    weight: 1
+  capInfo:
+  - capType: 0
+    rawTekiName: RandPom
+    rawWeight: 50
+    type: 1
+- floorInfo:
+    sublevel: 2
+    maxMainTeki: 24
+    maxItem: 5
+    maxGate: 3
+    capProb: 0.5
+    maxRoom: 4
+    corridorProb: 0.2
+    hasGeyser: false
+    caveUnitFile: 3_units_d_f_ujikou_tile.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 3
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Tank_key
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Tank_be_dama_red_l
+    rawWeight: 30
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 40
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 20
+    type: 5
+  - rawTekiName: ElecHiba
+    rawWeight: 60
+    type: 5
+  itemInfo:
+  - itemName: bell_red
+    rawWeight: 50
+  gateInfo:
+  - gateName: gate
+    gateLife: 4000.0
+    weight: 1
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1

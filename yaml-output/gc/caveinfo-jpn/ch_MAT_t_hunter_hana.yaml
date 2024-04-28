@@ -1,0 +1,74 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 5
+    maxItem: 19
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_manh_conc.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Miulin_gold_medal
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Hanachirashi_diamond_red
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hanachirashi_diamond_red
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hanachirashi_diamond_red
+    rawWeight: 10
+    type: 0
+  itemInfo:
+  - itemName: key
+    rawWeight: 10
+  - itemName: bane
+    rawWeight: 10
+  - itemName: tel_dial
+    rawWeight: 10
+  - itemName: diamond_blue
+    rawWeight: 10
+  - itemName: toy_gentle
+    rawWeight: 10
+  - itemName: tatebue
+    rawWeight: 10
+  - itemName: leaf_yellow
+    rawWeight: 10
+  - itemName: dia_b_blue
+    rawWeight: 10
+  - itemName: sinkukan_b
+    rawWeight: 10
+  - itemName: nut_l
+    rawWeight: 10
+  - itemName: bolt_l
+    rawWeight: 10
+  - itemName: be_dama_red_l
+    rawWeight: 10
+  - itemName: diamond_green_l
+    rawWeight: 10
+  - itemName: tape_red
+    rawWeight: 10
+  - itemName: turi_uki
+    rawWeight: 10
+  - itemName: badminton
+    rawWeight: 10
+  - itemName: gold_medal
+    rawWeight: 10
+  - itemName: baum_kuchen
+    rawWeight: 10
+  - itemName: chocolate_l
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

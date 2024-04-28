@@ -1,0 +1,53 @@
+numSublevels: 1
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 50
+    maxItem: 0
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: vs_8_spiral_conc.txt
+    lightingFile: vs_8_light.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Pelplant
+    rawWeight: 100
+    type: 0
+  - rawTekiName: UjiA
+    rawWeight: 100
+    type: 0
+  - rawTekiName: KumaKochappy
+    rawWeight: 100
+    type: 0
+  - rawTekiName: Chappy
+    rawWeight: 40
+    type: 1
+  - rawTekiName: Pelplant
+    rawWeight: 3
+    type: 0
+  - rawTekiName: BigFoot
+    rawWeight: 10
+    type: 8
+  - rawTekiName: $1Egg
+    rawWeight: 50
+    type: 1
+  - rawTekiName: Wakame_s
+    rawWeight: 6
+    type: 6
+  itemInfo: []
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1

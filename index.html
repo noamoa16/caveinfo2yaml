@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.12.3/brython.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.12.3/brython_stdlib.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script src="caveinfo2yaml.js"></script>
+    </head>
+    <body onload="brython()">
+        <h1>caveinfo2yaml</h1>
+        <script type="text/python" src="caveinfo2yaml_brython.py"></script>
+        <input type="file" id="file-upload">
+        <br>
+        <textarea id="input-area" rows="15" cols="80" style="resize:none" class="lined" placeholder="caveinfo here"></textarea>
+        <br>
+        <input type="button" value="Convert" id="convert-button" style="background:#c0e0ff">
+        <br>
+        <textarea id="output-area" rows="15" cols="80" style="resize:none" class="lined" readonly placeholder="yaml output here"></textarea>
+        <br>
+        <input type="button" value="Download Result" id="download-button">
+        <input type="button" value="Copy Result" id="copy-button">
+        <input type="button" value="Clear" id="clear-button" style="background:#ffa0a0">
+    </body>
+</html>

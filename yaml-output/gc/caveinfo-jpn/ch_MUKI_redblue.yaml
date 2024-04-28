@@ -1,0 +1,149 @@
+numSublevels: 2
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 18
+    maxItem: 4
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 3
+    corridorProb: 0.1
+    hasGeyser: false
+    caveUnitFile: 3_units_f_l_o_conc.txt
+    lightingFile: vs_8_light.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: FireChappy_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Tank_diamond_red
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Wtank_diamond_blue_l
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Kochappy_flower_red
+    rawWeight: 40
+    type: 1
+  - rawTekiName: $1FireOtakara_silver_medal
+    rawWeight: 10
+    type: 0
+  - rawTekiName: $1WaterOtakara_silver_medal
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 30
+    type: 5
+  - rawTekiName: KareOoinu_s
+    rawWeight: 10
+    type: 0
+  - rawTekiName: KareOoinu_l
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Wakame_s
+    rawWeight: 5
+    type: 6
+  - rawTekiName: KareOoinu_s
+    rawWeight: 5
+    type: 6
+  itemInfo:
+  - itemName: gold_medal
+    rawWeight: 10
+  - itemName: silver_medal
+    rawWeight: 10
+  - itemName: wadou_kaichin
+    rawWeight: 10
+  - itemName: diamond_green_l
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 14
+    maxItem: 4
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 3_units_pool_nor_ujikou_tile.txt
+    lightingFile: vs_8_light.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 3
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: BlueChappy_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: BlueKochappy_flower_red
+    rawWeight: 20
+    type: 0
+  - rawTekiName: BlueKochappy_flower_red
+    rawWeight: 20
+    type: 0
+  - rawTekiName: Tank_diamond_red
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Wtank_diamond_blue_l
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hanachirashi_toy_ring_b_red
+    rawWeight: 1
+    type: 6
+  - rawTekiName: $1FireOtakara_silver_medal
+    rawWeight: 10
+    type: 0
+  - rawTekiName: $1WaterOtakara_silver_medal
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 10
+    type: 0
+  - rawTekiName: Hiba
+    rawWeight: 30
+    type: 5
+  - rawTekiName: Hiba
+    rawWeight: 2
+    type: 6
+  itemInfo:
+  - itemName: gold_medal
+    rawWeight: 10
+  - itemName: silver_medal
+    rawWeight: 10
+  - itemName: wadou_kaichin
+    rawWeight: 10
+  - itemName: diamond_red_l
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

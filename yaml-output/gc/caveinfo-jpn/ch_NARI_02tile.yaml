@@ -1,0 +1,90 @@
+numSublevels: 2
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 3
+    maxItem: 5
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_units_northF_pool_tile.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 3
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: UmiMushiBlind_key
+    rawWeight: 10
+    type: 8
+  - rawTekiName: Jigumo_toy_ring_a_blue
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Jigumo_toy_ring_b_green
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Demon_diamond_blue_l
+    rawWeight: 1
+    type: 6
+  - rawTekiName: OniKurage_diamond_red
+    rawWeight: 1
+    type: 6
+  itemInfo:
+  - itemName: ahiru
+    rawWeight: 10
+  - itemName: toy_dog
+    rawWeight: 10
+  - itemName: bell
+    rawWeight: 10
+  - itemName: diamond_red_l
+    rawWeight: 10
+  - itemName: diamond_green_l
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 0
+    maxItem: 3
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_MIYA_bunki_tile.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 3
+    musicType: 1
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: UmiMushi_key
+    rawWeight: 1
+    type: 6
+  itemInfo:
+  - itemName: ahiru_head
+    rawWeight: 10
+  - itemName: diamond_blue
+    rawWeight: 10
+  - itemName: toy_ring_a_red
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: WhitePom
+    rawWeight: 20
+    type: 1

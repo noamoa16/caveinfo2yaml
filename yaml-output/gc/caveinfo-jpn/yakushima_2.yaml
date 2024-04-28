@@ -1,0 +1,284 @@
+numSublevels: 6
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 10
+    maxItem: 1
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_units_hit6x6_yakushima_toy.txt
+    lightingFile: yakushima_2_light.ini
+    skyboxFile: flooring
+    holeClogged: false
+    echoStrength: 5
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: KumaKochappy
+    rawWeight: 40
+    type: 1
+  - rawTekiName: KumaKochappy
+    rawWeight: 30
+    type: 0
+  - rawTekiName: KumaKochappy
+    rawWeight: 30
+    type: 0
+  itemInfo:
+  - itemName: bane_red
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 10
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 1_units_large_toy.txt
+    lightingFile: yakushima_2_light.ini
+    skyboxFile: tatami
+    holeClogged: false
+    echoStrength: 5
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: BlackPom
+    rawWeight: 10
+    type: 8
+  - rawTekiName: UjiA
+    rawWeight: 20
+    type: 0
+  - rawTekiName: UjiA
+    rawWeight: 20
+    type: 0
+  - rawTekiName: UjiB
+    rawWeight: 40
+    type: 1
+  - rawTekiName: PanModoki
+    rawWeight: 10
+    type: 1
+  - rawTekiName: PanModoki
+    rawWeight: 2
+    type: 6
+  - rawTekiName: Armor
+    rawWeight: 1
+    type: 6
+  - rawTekiName: Chiyogami
+    rawWeight: 2
+    type: 6
+  itemInfo:
+  - itemName: g_futa_kyusyu
+    rawWeight: 10
+  - itemName: cookie_m_l
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 2
+    maxMainTeki: 16
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 3
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 3_units_small2_small_mid_toy.txt
+    lightingFile: yakushima_2_light.ini
+    skyboxFile: flooring
+    holeClogged: false
+    echoStrength: 5
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Mar
+    rawWeight: 10
+    type: 1
+  - rawTekiName: PanModoki
+    rawWeight: 20
+    type: 1
+  - rawTekiName: ElecBug
+    rawWeight: 40
+    type: 1
+  - rawTekiName: ElecBug
+    rawWeight: 20
+    type: 0
+  - rawTekiName: ElecBug
+    rawWeight: 20
+    type: 0
+  - rawTekiName: ElecHiba
+    rawWeight: 50
+    type: 5
+  itemInfo:
+  - itemName: tatebue
+    rawWeight: 10
+  - itemName: castanets
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: YellowPom
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 11
+    type: 1
+  - capType: 0
+    rawTekiName: $1ElecBug
+    rawWeight: 20
+    type: 0
+- floorInfo:
+    sublevel: 3
+    maxMainTeki: 8
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_units_hit47_hit67_toy.txt
+    lightingFile: yakushima_2_light.ini
+    skyboxFile: flooring
+    holeClogged: false
+    echoStrength: 5
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: KumaChappy_g_futa_sikoku
+    rawWeight: 10
+    type: 8
+  - rawTekiName: KumaKochappy
+    rawWeight: 30
+    type: 1
+  - rawTekiName: KumaKochappy
+    rawWeight: 20
+    type: 0
+  - rawTekiName: PanModoki
+    rawWeight: 20
+    type: 1
+  itemInfo:
+  - itemName: chocowhite_l
+    rawWeight: 10
+  - itemName: sensya
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []
+- floorInfo:
+    sublevel: 4
+    maxMainTeki: 13
+    maxItem: 2
+    maxGate: 0
+    capProb: 0.5
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 2_units_sara_sara2_toy.txt
+    lightingFile: yakushima_2_light.ini
+    skyboxFile: tatami
+    holeClogged: false
+    echoStrength: 5
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: Fkabuto
+    rawWeight: 30
+    type: 8
+  - rawTekiName: KumaKochappy
+    rawWeight: 40
+    type: 1
+  - rawTekiName: KumaKochappy
+    rawWeight: 20
+    type: 0
+  - rawTekiName: KumaKochappy
+    rawWeight: 20
+    type: 0
+  - rawTekiName: KumaKochappy
+    rawWeight: 20
+    type: 0
+  itemInfo:
+  - itemName: compact
+    rawWeight: 10
+  - itemName: bell_blue
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: $1RandPom
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: BlackPom
+    rawWeight: 10
+    type: 1
+  - capType: 0
+    rawTekiName: $1Egg
+    rawWeight: 11
+    type: 1
+- floorInfo:
+    sublevel: 5
+    maxMainTeki: 12
+    maxItem: 3
+    maxGate: 0
+    capProb: 0.0
+    maxRoom: 1
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 1_units_opan_toy.txt
+    lightingFile: toy_light_cha.ini
+    skyboxFile: flooring
+    holeClogged: false
+    echoStrength: 5
+    musicType: 0
+    hasFloorPlane: true
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+    hasSeesaw: false
+  tekiInfo:
+  - rawTekiName: OoPanModoki_fue_b
+    rawWeight: 10
+    type: 8
+  - rawTekiName: PanModoki
+    rawWeight: 20
+    type: 1
+  - rawTekiName: Egg
+    rawWeight: 30
+    type: 0
+  - rawTekiName: ElecBug
+    rawWeight: 20
+    type: 0
+  - rawTekiName: ElecBug
+    rawWeight: 40
+    type: 0
+  - rawTekiName: ElecHiba
+    rawWeight: 7
+    type: 6
+  itemInfo:
+  - itemName: dia_b_green
+    rawWeight: 10
+  - itemName: medama_yaki
+    rawWeight: 10
+  - itemName: donutsichigo
+    rawWeight: 10
+  gateInfo: []
+  capInfo: []

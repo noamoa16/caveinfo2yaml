@@ -1,0 +1,167 @@
+numSublevels: 3
+floors:
+- floorInfo:
+    sublevel: 0
+    maxMainTeki: 8
+    maxItem: 1
+    maxGate: 4
+    capProb: 0.1
+    maxRoom: 6
+    corridorProb: 0.0
+    hasGeyser: false
+    caveUnitFile: 4_MAT_c_d_k_n_conc.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Tanpopo
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Clover
+    rawWeight: 10
+    type: 1
+  - rawTekiName: HikariKinoko
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Wakame_l
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Tukushi
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Magaret
+    rawWeight: 10
+    type: 1
+  - rawTekiName: Ooinu_l
+    rawWeight: 20
+    type: 1
+  - rawTekiName: KareOoinu_s
+    rawWeight: 10
+    type: 6
+  - rawTekiName: Ooinu_s
+    rawWeight: 10
+    type: 6
+  itemInfo:
+  - itemName: key
+    rawWeight: 10
+  gateInfo:
+  - gateName: gate
+    gateLife: 1.0
+    weight: 1
+  capInfo: []
+- floorInfo:
+    sublevel: 1
+    maxMainTeki: 54
+    maxItem: 1
+    maxGate: 6
+    capProb: 0.0
+    maxRoom: 10
+    corridorProb: 0.2
+    hasGeyser: false
+    caveUnitFile: 3_MAT_d_i_m_conc.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 0
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: $4BombOtakara
+    rawWeight: 90
+    type: 1
+  - rawTekiName: $BombOtakara
+    rawWeight: 90
+    type: 1
+  - rawTekiName: $BombOtakara
+    rawWeight: 90
+    type: 1
+  - rawTekiName: $4BombOtakara
+    rawWeight: 90
+    type: 1
+  - rawTekiName: $Bomb
+    rawWeight: 90
+    type: 1
+  - rawTekiName: Zenmai
+    rawWeight: 10
+    type: 5
+  - rawTekiName: Tanpopo
+    rawWeight: 10
+    type: 5
+  - rawTekiName: Clover
+    rawWeight: 10
+    type: 5
+  - rawTekiName: HikariKinoko
+    rawWeight: 10
+    type: 5
+  - rawTekiName: Wakame_l
+    rawWeight: 10
+    type: 5
+  - rawTekiName: Tukushi
+    rawWeight: 10
+    type: 5
+  - rawTekiName: Magaret
+    rawWeight: 10
+    type: 5
+  - rawTekiName: Ooinu_l
+    rawWeight: 20
+    type: 1
+  - rawTekiName: KareOoinu_s
+    rawWeight: 30
+    type: 6
+  - rawTekiName: Ooinu_s
+    rawWeight: 30
+    type: 6
+  itemInfo:
+  - itemName: key
+    rawWeight: 10
+  gateInfo:
+  - gateName: gate
+    gateLife: 1.0
+    weight: 1
+  capInfo: []
+- floorInfo:
+    sublevel: 2
+    maxMainTeki: 0
+    maxItem: 3
+    maxGate: 0
+    capProb: 1.0
+    maxRoom: 2
+    corridorProb: 0.0
+    hasGeyser: true
+    caveUnitFile: 2_MAT_a_m_conc.txt
+    lightingFile: normal_light_cha.ini
+    skyboxFile: none
+    holeClogged: false
+    echoStrength: 2
+    musicType: 2
+    hasFloorPlane: false
+    allowCapSpawns: true
+    waterwraithTimer: 0.0
+  tekiInfo:
+  - rawTekiName: Clover
+    rawWeight: 6
+    type: 6
+  itemInfo:
+  - itemName: key
+    rawWeight: 10
+  - itemName: chess_king_white
+    rawWeight: 10
+  - itemName: chess_queen_black
+    rawWeight: 10
+  gateInfo: []
+  capInfo:
+  - capType: 0
+    rawTekiName: RandPom
+    rawWeight: 20
+    type: 1
+  - capType: 0
+    rawTekiName: Egg
+    rawWeight: 10
+    type: 1
