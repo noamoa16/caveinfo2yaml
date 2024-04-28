@@ -150,7 +150,6 @@ if __name__ == '__main__':
     metainfo = yaml.safe_load(open(CAVEINFO_FILE_DIR / 'metainfo.yaml'))
     cave_all: list[str] = metainfo['cave']['all']
 
-    a, b = [], []
     for caveinfo_file_path in CAVEINFO_FILE_DIR.glob('**/*.txt'):
         output_dict = reader.to_dict(open(caveinfo_file_path).read())
         output_yaml = yaml.dump(output_dict, sort_keys=False)
